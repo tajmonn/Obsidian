@@ -38,7 +38,6 @@ Just single and coop games with story. Not all since I might not remember what I
 - [x] Othercide 
 - [ ] Minecraft
 - [ ] Upload Labs
-- [ ] 
 
 ---
 ## Multi:
