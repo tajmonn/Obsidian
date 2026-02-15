@@ -226,7 +226,6 @@ Just single and coop games with story. Not all since I might not remember what I
 - [x] OneShot
 - [x] Is This Seat Taken?
 - [x] Goat Simulator
-- [ ] 
 
 ---
 ## 3DS:
