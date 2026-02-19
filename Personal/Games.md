@@ -17,7 +17,8 @@ Just single and coop games with story. Not all since I might not remember what I
 - [ ] Remnant: From the Ashes %% to play with gf %%
 - [ ] Sherlock Holmes The Awakened
 - [ ] Lego Lord of the Rings %% to play with gf %%
-- [ ] Devil May Cry V %% not really my cup of tea... %%
+- [ ] ~~Devil May Cry V %% not really my cup of tea... %%~~
+- [ ] Trine (all) %% to play with gf %%
 
 ---
 ## Never ending:
@@ -76,11 +77,13 @@ Just single and coop games with story. Not all since I might not remember what I
 - [ ] Tormented souls 2 %% resident evil %%
 - [ ] Asylum %% point and click %%
 - [ ] Darkwood
+- [ ] Pray %% maybe finish it this time %%
 
 ---
 ## Small games To Play:
 
 - [ ] House (steam) 
+- [ ] The Entropy Center (steam) %% portal like %%
 - [ ] Skate story %% story levels %%
 - [ ] Children of the sun %% levels %%
 - [ ] Calisto protocol (epic) %% linear %%

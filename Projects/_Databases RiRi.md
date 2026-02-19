@@ -1,7 +1,2 @@
-Streamlit app to manage databases for RiRi Foundation. Children, therapists... 
+Excel setup for database of children and therapists.
 
-==TODO:==
-- More notes:
-1. Schemes
-2. Explanation
-- Get yourself together and finish it!

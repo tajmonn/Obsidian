@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Games.md",
+                "file": "Personal/Movies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Games"
+              "title": "Movies"
             }
           }
         ]
@@ -197,17 +197,18 @@
   },
   "active": "72b901f4c2dee051",
   "lastOpenFiles": [
+    "Personal/Games.md",
+    "Personal/Movies.md",
+    "Projects/_Databases RiRi.md",
     "Projects/Portfolio/Text files/Website-RiRi.md",
     "Projects/_riri.org.pl.md",
     "Projects/_Projects.md",
-    "Projects/_Databases RiRi.md",
     "Projects/Portfolio/_Portfolio.md",
     "Projects/Portfolio/Text files/Experience-work.md",
     "Projects/Portfolio/Text files/Experience-education.md",
     "Projects/Portfolio/Text files/About.md",
     "Projects/Portfolio/Text files/Contact.md",
     "Projects/Portfolio/README.md.md",
-    "Personal/Games.md",
     "Projects/Portfolio/Text files/Portfolio.md",
     "Assets/portfolio.webp",
     "Assets/portfolio.webp",
