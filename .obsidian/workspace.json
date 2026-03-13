@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Movies.md",
+                "file": "Projects/_Projects.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Movies"
+              "title": "_Projects"
             }
           }
         ]
@@ -166,21 +166,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Games.md",
+                "file": "Projects/_Projects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Games"
+              "title": "Outline of _Projects"
+            }
+          },
+          {
+            "id": "5c2a928e2eea34ec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,15 +201,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "72b901f4c2dee051",
   "lastOpenFiles": [
-    "Personal/Games.md",
-    "Personal/Movies.md",
     "Projects/_Databases RiRi.md",
+    "Personal/Movies.md",
+    "Personal/Games.md",
     "Projects/Portfolio/Text files/Website-RiRi.md",
     "Projects/_riri.org.pl.md",
     "Projects/_Projects.md",
