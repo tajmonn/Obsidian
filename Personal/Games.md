@@ -7,7 +7,6 @@ Just single and coop games with story. Not all since I might not remember what I
 ## In progress...:
 
 - [ ] Sifu (epic) %% kung fu fighting  %%
-- [ ] Alone in the Dark (steam) %% Hopper from stranger thingies%%
 - [ ] Biped 2 (steam) %% sequel with gf %%
 - [ ] Deliver At All Costs (epic) %% quick sessions of bad driving %%
 - [ ] ibb & obb (steam) %% to play with gf %%
@@ -17,8 +16,8 @@ Just single and coop games with story. Not all since I might not remember what I
 - [ ] Remnant: From the Ashes %% to play with gf %%
 - [ ] Sherlock Holmes The Awakened
 - [ ] Lego Lord of the Rings %% to play with gf %%
-- [ ] ~~Devil May Cry V %% not really my cup of tea... %%~~
 - [ ] Trine (all) %% to play with gf %%
+- [ ] Pacific Drive
 
 ---
 ## Never ending:
@@ -29,7 +28,7 @@ Just single and coop games with story. Not all since I might not remember what I
 - [x] Potion Craft: Alchemist simulator
 - [ ] Slay the Spire
 - [x] Bitburner
-- [ ] Peglin
+- [x] Peglin
 - [ ] Osu!
 - [ ] Heartstone
 - [ ] League of Legends
@@ -83,6 +82,7 @@ Just single and coop games with story. Not all since I might not remember what I
 ## Small games To Play:
 
 - [ ] House (steam) 
+- [ ] Turnip Boy Robs a Bank (epic)
 - [ ] The Entropy Center (steam) %% portal like %%
 - [ ] Skate story %% story levels %%
 - [ ] Children of the sun %% levels %%
@@ -127,11 +127,15 @@ Just single and coop games with story. Not all since I might not remember what I
 - [ ] Hela %% not released %%
 - [ ] Gang of Frogs %% Early Access - waiting %%
 - [ ] Tick Tock: A Tale for Two %% escape room %%
+- [ ] Hide and Shriek %% 1v1 scring game %%
+- [ ] Keep talking and nobody explodes
+- [ ] Don't Panic! It is Just Turbulence %% free demo! %%
 
 ---
 ## Finished:
 %% Select for no chance of replay %%
 - [x] Biped
+- [x] Alone in the Dark
 - [x] Bokura
 - [x] Celeste
 - [x] Clar Obscur: Expedition 33
@@ -181,7 +185,7 @@ Just single and coop games with story. Not all since I might not remember what I
 - [x] Amnesia: A machine for pigs
 - [x] Amnesia: Rebirth
 - [x] Amnesia: The Bunker
-- [x] Super Mean Boy
+- [x] Super Meat Boy
 - [x] Death's Door
 - [x] Beholder
 - [x] Ghostrunner
@@ -231,7 +235,7 @@ Just single and coop games with story. Not all since I might not remember what I
 
 ---
 ## 3DS:
-- [ ] The Legend of Zelda: Majora's mask
+- [x] The Legend of Zelda: Majora's mask
 - [x] The Legend of Zelda: Ocarina of Time 3D
 - [x] The Legend of Zelda: Link between worlds
 - [ ] Pokemon Ultra Sun

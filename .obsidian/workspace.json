@@ -174,13 +174,23 @@
               "icon": "lucide-list",
               "title": "Outline of Games"
             }
+          },
+          {
+            "id": "0a48f7ddbeb9510e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +205,13 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "72b901f4c2dee051",
+  "active": "049b11c2117c6fcc",
   "lastOpenFiles": [
     "Personal/Games.md",
     "Personal/Movies.md",
+    "lub.md",
+    "Personal/Blender.md",
+    "Projects/_TextTo3DPrint.md",
     "Projects/_Databases RiRi.md",
     "Projects/Portfolio/Text files/Website-RiRi.md",
     "Projects/_riri.org.pl.md",
