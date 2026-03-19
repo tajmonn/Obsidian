@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "README.md"
             }
+          },
+          {
+            "id": "825482ced5ef2553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_MP3D Player.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_MP3D Player"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "1bd11781399d0d1e",
@@ -205,8 +231,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "72b901f4c2dee051",
+  "active": "825482ced5ef2553",
   "lastOpenFiles": [
+    "Projects/Portfolio/README.md.md",
+    "_MP3D Player.md",
     "Projects/Portfolio/_Portfolio.md",
     "Personal/Movies.md",
     "Personal/Games.md",
@@ -221,7 +249,6 @@
     "Projects/Portfolio/Text files/Experience-education.md",
     "Projects/Portfolio/Text files/About.md",
     "Projects/Portfolio/Text files/Contact.md",
-    "Projects/Portfolio/README.md.md",
     "Projects/Portfolio/Text files/Portfolio.md",
     "Assets/portfolio.webp",
     "Assets/portfolio.webp",
