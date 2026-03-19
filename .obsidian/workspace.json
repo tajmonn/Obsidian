@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Movies.md",
+                "file": "Projects/Portfolio/README.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Movies"
+              "title": "README.md"
             }
           }
         ]
@@ -205,10 +205,11 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "049b11c2117c6fcc",
+  "active": "72b901f4c2dee051",
   "lastOpenFiles": [
-    "Personal/Games.md",
+    "Projects/Portfolio/_Portfolio.md",
     "Personal/Movies.md",
+    "Personal/Games.md",
     "lub.md",
     "Personal/Blender.md",
     "Projects/_TextTo3DPrint.md",
@@ -216,7 +217,6 @@
     "Projects/Portfolio/Text files/Website-RiRi.md",
     "Projects/_riri.org.pl.md",
     "Projects/_Projects.md",
-    "Projects/Portfolio/_Portfolio.md",
     "Projects/Portfolio/Text files/Experience-work.md",
     "Projects/Portfolio/Text files/Experience-education.md",
     "Projects/Portfolio/Text files/About.md",

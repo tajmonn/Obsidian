@@ -2,6 +2,7 @@
 - [ ] Ministerstwo niebezpiecznych drani
 - [ ] Mufasa
 - [ ] Intern
+- [ ] hoppers
 
 X-men series:
 - [x] X-men: First Class
@@ -9,8 +10,8 @@ X-men series:
 - [x] X-men 
 - [x] X2: X-Men United
 - [x] X-men: The Last Stand
-- [ ] The Wolverine (2013)
-- [ ] X-men: Days of Future Past (+ Rouge cut)
+- [x] The Wolverine (2013)
+- [x] X-men: Days of Future Past (+ Rouge cut)
 
 Alternative made by DOFP:
 - [ ] X-Men: Apocalypse

@@ -2,7 +2,7 @@
 
 Personal portfolio website showcasing my projects, experience, and skills.
 
-🌐 **Live version:** https://tajmonn.github.io
+🌐 **Live version:** [portfolio](https://tajmonn.github.io)
 
 ---
 
