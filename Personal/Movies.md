@@ -1,8 +1,10 @@
+- [x] Venom 2
+- [x] Venom 3
 - [ ] Zwierzogród 2 %% disney %%
 - [ ] Ministerstwo niebezpiecznych drani
 - [ ] Mufasa
 - [ ] Intern
-- [ ] hoppers
+- [ ] Hoppers
 
 X-men series:
 - [x] X-men: First Class
@@ -21,8 +23,3 @@ Different alternatives:
 - [ ] The New Mutants
 - [ ] Logan
 
-
-
-Finished:
-- [x] Venom 2
-- [x] Venom 3

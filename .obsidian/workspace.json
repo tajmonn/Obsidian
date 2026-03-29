@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b111594c1d8c08ff",
+        "id": "42bc8cab8f5e902b",
         "type": "tabs",
         "children": [
           {
-            "id": "72b901f4c2dee051",
+            "id": "48aeebf612863422",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Portfolio/README.md.md",
-                "mode": "source",
+                "file": "Personal/Movies.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README.md"
-            }
-          },
-          {
-            "id": "825482ced5ef2553",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_MP3D Player.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "_MP3D Player"
+              "title": "Movies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "1bd11781399d0d1e",
@@ -130,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Games.md",
+                "file": "Personal/Movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Games"
+              "title": "Backlinks for Movies"
             }
           },
           {
@@ -231,36 +205,53 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "825482ced5ef2553",
+  "active": "0a48f7ddbeb9510e",
   "lastOpenFiles": [
+    "Pathfinder/Postacie/Główne grywalne/Morith Velstram.md",
+    "Pathfinder/Postacie/Główne grywalne/Kumiho.md",
+    "Pathfinder/Postacie/Główne grywalne/Aldric Velnar.md",
+    "Pathfinder/Postacie/Główne grywalne/Bravelina.md",
+    "Pathfinder/Postacie/Główne grywalne/Głomek.md",
+    "Pathfinder/Postacie/Cayden Cailean.md",
+    "Pathfinder/Postacie/Familiary głowne/Neeko.md",
+    "Pathfinder/Postacie/Familiary głowne/Maykael.md",
+    "Pathfinder/Postacie/Familiary głowne/Aora.md",
+    "Pathfinder/Pictures/Neeko.png",
+    "Pathfinder/Pictures/Aora.png",
+    "Pathfinder/Pictures/Aldric Velstram.png",
+    "Pathfinder/Pictures/Morith Velstram.png",
+    "Pathfinder/Pictures/Kumiho.png",
+    "Pathfinder/Pictures/Głomek.png",
+    "Pathfinder/Pictures/Bravelina.png",
+    "Pathfinder/Pictures",
+    "Pasted image 20260329190029.png",
+    "Pathfinder/Postacie/Familiary głowne",
+    "Pathfinder/Postacie/Główne grywalne",
     "Projects/Portfolio/README.md.md",
-    "_MP3D Player.md",
-    "Projects/Portfolio/_Portfolio.md",
+    "Projects/_MP3D Player.md",
     "Personal/Movies.md",
+    "Pathfinder/Miejsca",
+    "Pathfinder/Postacie",
+    "SESJA/Dzień ten i ten.md",
+    "Głomek.md",
+    "Morit.md",
+    "Projects/Assets/portfolio.webp",
+    "Zdjęcie.md",
+    "Pathfinder",
+    "Projects/_TextTo3DPrint.md",
     "Personal/Games.md",
+    "Projects/Portfolio/_Portfolio.md",
     "lub.md",
     "Personal/Blender.md",
-    "Projects/_TextTo3DPrint.md",
     "Projects/_Databases RiRi.md",
     "Projects/Portfolio/Text files/Website-RiRi.md",
     "Projects/_riri.org.pl.md",
     "Projects/_Projects.md",
-    "Projects/Portfolio/Text files/Experience-work.md",
-    "Projects/Portfolio/Text files/Experience-education.md",
-    "Projects/Portfolio/Text files/About.md",
-    "Projects/Portfolio/Text files/Contact.md",
-    "Projects/Portfolio/Text files/Portfolio.md",
-    "Assets/portfolio.webp",
-    "Assets/portfolio.webp",
-    "Assets",
+    "Projects/Assets",
     "Projekty/Untitled.canvas",
     "Personal",
     "Projects/Databases RiRi",
     "Projects/Portfolio/Text files",
-    "Projects",
-    "Untitled.canvas",
-    "Projects/Portfolio",
-    "Untitled.base",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
