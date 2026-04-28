@@ -230,8 +230,9 @@ Just single and coop games with story. Not all since I might not remember what I
 - [x] OneShot
 - [x] Is This Seat Taken?
 - [x] Goat Simulator
-- [x] House (steam)
-- [x] Viewfinder (epic)
+- [x] House
+- [x] Viewfinder
+- [x] The surge 2
 
 ---
 ## 3DS:
