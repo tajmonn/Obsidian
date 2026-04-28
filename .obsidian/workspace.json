@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Movies.md",
-                "mode": "preview",
+                "file": "Pathfinder/Postacie/Familiary głowne/Aora.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,37 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Movies"
+              "title": "Aora"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b11fec98856acb31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63fdf25eaf4ab1bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Games.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Games"
             }
           }
         ]
@@ -104,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Movies.md",
+                "file": "Pathfinder/Postacie/Familiary głowne/Tinkerbell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Movies"
+              "title": "Backlinks for Tinkerbell"
             }
           },
           {
@@ -205,17 +235,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0a48f7ddbeb9510e",
+  "active": "63fdf25eaf4ab1bb",
   "lastOpenFiles": [
-    "Pathfinder/Postacie/Główne grywalne/Morith Velstram.md",
+    "Pathfinder/Postacie/Familiary głowne/Tinkerbell.md",
+    "Pathfinder/Postacie/Familiary głowne/Aora.md",
     "Pathfinder/Postacie/Główne grywalne/Kumiho.md",
+    "Personal/Movies.md",
+    "Pathfinder/Postacie/Główne grywalne/Morith Velstram.md",
     "Pathfinder/Postacie/Główne grywalne/Aldric Velnar.md",
     "Pathfinder/Postacie/Główne grywalne/Bravelina.md",
     "Pathfinder/Postacie/Główne grywalne/Głomek.md",
     "Pathfinder/Postacie/Cayden Cailean.md",
     "Pathfinder/Postacie/Familiary głowne/Neeko.md",
     "Pathfinder/Postacie/Familiary głowne/Maykael.md",
-    "Pathfinder/Postacie/Familiary głowne/Aora.md",
     "Pathfinder/Pictures/Neeko.png",
     "Pathfinder/Pictures/Aora.png",
     "Pathfinder/Pictures/Aldric Velstram.png",
@@ -229,7 +261,6 @@
     "Pathfinder/Postacie/Główne grywalne",
     "Projects/Portfolio/README.md.md",
     "Projects/_MP3D Player.md",
-    "Personal/Movies.md",
     "Pathfinder/Miejsca",
     "Pathfinder/Postacie",
     "SESJA/Dzień ten i ten.md",

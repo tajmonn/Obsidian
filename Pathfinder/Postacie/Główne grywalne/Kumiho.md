@@ -21,7 +21,7 @@ Kumiho to całkiem urodziwa, rudowłosa kobieta, o mocno średnim wzroście.
 [[Aora]]
 
 ## Wrózka
-==kurde nawet nie pamiętam==
+[[Tinkerbell]]
 
 ---
 # Historia

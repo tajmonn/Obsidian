@@ -10,7 +10,6 @@ Just single and coop games with story. Not all since I might not remember what I
 - [ ] Biped 2 (steam) %% sequel with gf %%
 - [ ] Deliver At All Costs (epic) %% quick sessions of bad driving %%
 - [ ] ibb & obb (steam) %% to play with gf %%
-- [ ] Viewfinder (epic) %% should sit and finish it %%
 - [ ] Beat Cop (steam) %% finished first day so far? maybe should restart and steam it %%
 - [ ] With you (steam) %% check if gf has it %%
 - [ ] Remnant: From the Ashes %% to play with gf %%
@@ -29,27 +28,27 @@ Just single and coop games with story. Not all since I might not remember what I
 - [ ] Slay the Spire
 - [x] Bitburner
 - [x] Peglin
-- [ ] Osu!
+- [x] Osu!
 - [ ] Heartstone
 - [ ] League of Legends
 - [ ] Team Fight Tactics
 - [ ] Valorant
-- [ ] DefinitelyNotFriedChicken
+- [x] DefinitelyNotFriedChicken
 - [x] Othercide 
-- [ ] Minecraft
-- [ ] Upload Labs
+- [x] Minecraft
+- [x] Upload Labs
 
 ---
 ## Multi:
 
 - [ ] Rainbow Six Siege
 - [x] Rocket League
-- [ ] Dead by Daylight
+- [x] Dead by Daylight
 - [x] Apex Legends
 - [x] Overwatch
-- [ ] Peak
-- [ ] Phasmophobia
-- [ ] R.E.P.O
+- [x] Peak
+- [x] Phasmophobia
+- [x] R.E.P.O
 - [ ] Marvel Rivals
 - [x] Counter-Strike
 - [x] Don't Starve Together
@@ -81,7 +80,6 @@ Just single and coop games with story. Not all since I might not remember what I
 ---
 ## Small games To Play:
 
-- [ ] House (steam) 
 - [ ] Turnip Boy Robs a Bank (epic)
 - [ ] The Entropy Center (steam) %% portal like %%
 - [ ] Skate story %% story levels %%
@@ -232,6 +230,8 @@ Just single and coop games with story. Not all since I might not remember what I
 - [x] OneShot
 - [x] Is This Seat Taken?
 - [x] Goat Simulator
+- [x] House (steam)
+- [x] Viewfinder (epic)
 
 ---
 ## 3DS:
