@@ -71,7 +71,7 @@ Just single and coop games with story. Not all since I might not remember what I
 ## Horrors To Play:
 
 - [ ] Outlast 2 (steam) %% linear horror %%
-- [ ] Pacific drive %% death stranding %%
+- [x] Pacific drive %% too much death stranding %%
 - [ ] Tormented souls 2 %% resident evil %%
 - [ ] Asylum %% point and click %%
 - [ ] Darkwood
@@ -87,13 +87,14 @@ Just single and coop games with story. Not all since I might not remember what I
 - [ ] Calisto protocol (epic) %% linear %%
 - [ ] Plague tale: requiem %% story %%
 - [ ] Stretchmancer %% not released %%
-- [ ] ZERO PARADES: For Dead Spies %% not released (2026) - disco elysium %%
+- [ ] ZERO PARADES: For Dead Spies %% 20 may 2026 - disco elysium %%
 - [ ] Bladesong %% chill making swords %%
 - [ ] Cato: Buttered Cat %% level puzzles %%
 - [ ] Nobody wants to die (epic)  %% detective cyberpunk? %%
 - [ ] Bioshock infinite %% tried base remastered but just couldn't... %%
 - [ ] Hitman 2
 - [ ] Hitman 3
+- [ ] Mixtape %% 3h movie not a game rly %%
 
 ---
 ## Big games To Play:

@@ -22,3 +22,28 @@ Beside that cassette looks pretty good. We need to think about connecting it to 
 ### V2.2
 All seems ok. But all wholes and pegs needs to be bigger - they break when going in and print poorly.
 Can add extra block for oled.
+
+## V3.1
+For cassette: 
+- add an extra support for the oled screen so it's not tilted
+- add holes for the magnets so the connection between cassette and box will be the servo + 4 magnets
+Box:
+- fix position of the oled hole
+- add grove for the top part
+- add 4 magnets
+
+## V3.2
+For all:
+Printing piece by piece on the same plate makes better quality through printing but the base is reheating multiple time so there is a lot of warping. No need for magnets made in last version. 
+Cassette:
+- new lock-in pegs don't really work. Maybe just do bigger normal pegs
+Box:
+- Too short hole for the lid??? HOW DID YOU MADE IT TYMON?!?!
+- B
+- attery needs to go deeper, maybe too small radius
+- Hole for the recharging module inside the box needs to be longer and wider
+- Maybe cover also should be rounded
+- really thinking about holes for screws for servo for easier disassemble
+Knob:
+- make a new version where it covers all the assembly parts 
+- also right now is too tight
