@@ -39,8 +39,7 @@ Cassette:
 - new lock-in pegs don't really work. Maybe just do bigger normal pegs
 Box:
 - Too short hole for the lid??? HOW DID YOU MADE IT TYMON?!?!
-- B
-- attery needs to go deeper, maybe too small radius
+- Battery needs to go deeper, maybe too small radius
 - Hole for the recharging module inside the box needs to be longer and wider
 - Maybe cover also should be rounded
 - really thinking about holes for screws for servo for easier disassemble
