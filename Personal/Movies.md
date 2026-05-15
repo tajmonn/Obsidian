@@ -1,18 +1,27 @@
 - [ ] Zwierzogród 2 %% disney %%
-- [x] Venom 2
-- [ ] Venom 3
 - [ ] Ministerstwo niebezpiecznych drani
 - [ ] Mufasa
 - [ ] Intern
-- [ ] X-men: First Class
-- [ ] X-men: Days of Future Past
-- [ ] X-men Origins: Wolverine
+
+X-men series:
+- [x] X-men: First Class
+- [x] X-men Origins: Wolverine
+- [x] X-men 
+- [x] X2: X-Men United
+- [x] X-men: The Last Stand
+- [ ] The Wolverine (2013)
+- [ ] X-men: Days of Future Past (+ Rouge cut)
+
+Alternative made by DOFP:
 - [ ] X-Men: Apocalypse
 - [ ] X-men: Dark Phoenix
-- [ ] X-men 
-- [ ] X2: X-Men United
-- [ ] X-men: The Last Stand
-- [ ] The Wolverine (2013)
+
+Different alternatives:
 - [ ] The New Mutants
 - [ ] Logan
-- [ ] /
+
+
+
+Finished:
+- [x] Venom 2
+- [x] Venom 3
