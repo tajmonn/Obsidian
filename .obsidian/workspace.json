@@ -59,15 +59,24 @@
             "id": "9d0a3c8e16b5cbbb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/community-plugins.json",
-                "bFile": ".obsidian/community-plugins.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Projects/_MP3D Player.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Index)"
+              "icon": "lucide-file",
+              "title": "_MP3D Player"
             }
           }
         ],
