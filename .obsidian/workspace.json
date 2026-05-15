@@ -78,33 +78,9 @@
               "icon": "lucide-file",
               "title": "_MP3D Player"
             }
-          },
-          {
-            "id": "84ce1523d06a7f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -278,10 +254,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84ce1523d06a7f8e",
+  "active": "9d0a3c8e16b5cbbb",
   "lastOpenFiles": [
-    "Projects/_MP3D Player.md",
     "conflict-files-obsidian-git.md",
+    "Projects/_MP3D Player.md",
     "Projects/_riri.org.pl.md",
     "Projects/_Projects.md",
     "Projects/Assets/portfolio.webp",

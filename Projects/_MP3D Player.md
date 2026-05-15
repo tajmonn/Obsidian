@@ -45,4 +45,4 @@ Box:
 - really thinking about holes for screws for servo for easier disassemble
 Knob:
 - make a new version where it covers all the assembly parts 
-- also right now is too tight
+- also right now is too tight so it need to have a bigger hole
