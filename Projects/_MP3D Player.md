@@ -26,7 +26,8 @@ Can add extra block for oled.
 ## V3.1  
 For cassette:  
 - add an extra support for the oled screen so it's not tilted
-- add holes for the magnets so the connection between cassette and box will be the servo + 4 magnets  
+- add holes for the magnets so the connection between cassette and box will be the servo + 4 magnets
+  
 Box:  
 - fix position of the oled hole
 - add grove for the top part
