@@ -10,7 +10,6 @@ Just single and coop games with story. Not all since I might not remember what I
 - [ ] Biped 2 (steam) %% sequel with gf %%
 - [ ] Deliver At All Costs (epic) %% quick sessions of bad driving %%
 - [ ] ibb & obb (steam) %% to play with gf %%
-- [ ] Viewfinder (epic) %% should sit and finish it %%
 - [ ] Beat Cop (steam) %% finished first day so far? maybe should restart and steam it %%
 - [ ] With you (steam) %% check if gf has it %%
 - [ ] Remnant: From the Ashes %% to play with gf %%
@@ -29,27 +28,31 @@ Just single and coop games with story. Not all since I might not remember what I
 - [ ] Slay the Spire
 - [x] Bitburner
 - [x] Peglin
+<<<<<<< HEAD
 - [ ] Osu!
+=======
+- [x] Osu!
+>>>>>>> origin/main
 - [ ] Heartstone
 - [ ] League of Legends
 - [ ] Team Fight Tactics
 - [ ] Valorant
-- [ ] DefinitelyNotFriedChicken
+- [x] DefinitelyNotFriedChicken
 - [x] Othercide 
-- [ ] Minecraft
-- [ ] Upload Labs
+- [x] Minecraft
+- [x] Upload Labs
 
 ---
 ## Multi:
 
 - [ ] Rainbow Six Siege
 - [x] Rocket League
-- [ ] Dead by Daylight
+- [x] Dead by Daylight
 - [x] Apex Legends
 - [x] Overwatch
-- [ ] Peak
-- [ ] Phasmophobia
-- [ ] R.E.P.O
+- [x] Peak
+- [x] Phasmophobia
+- [x] R.E.P.O
 - [ ] Marvel Rivals
 - [x] Counter-Strike
 - [x] Don't Starve Together
@@ -72,7 +75,7 @@ Just single and coop games with story. Not all since I might not remember what I
 ## Horrors To Play:
 
 - [ ] Outlast 2 (steam) %% linear horror %%
-- [ ] Pacific drive %% death stranding %%
+- [x] Pacific drive %% too much death stranding %%
 - [ ] Tormented souls 2 %% resident evil %%
 - [ ] Asylum %% point and click %%
 - [ ] Darkwood
@@ -81,7 +84,10 @@ Just single and coop games with story. Not all since I might not remember what I
 ---
 ## Small games To Play:
 
+<<<<<<< HEAD
 - [ ] House (steam) 
+=======
+>>>>>>> origin/main
 - [ ] Turnip Boy Robs a Bank (epic)
 - [ ] The Entropy Center (steam) %% portal like %%
 - [ ] Skate story %% story levels %%
@@ -89,13 +95,14 @@ Just single and coop games with story. Not all since I might not remember what I
 - [ ] Calisto protocol (epic) %% linear %%
 - [ ] Plague tale: requiem %% story %%
 - [ ] Stretchmancer %% not released %%
-- [ ] ZERO PARADES: For Dead Spies %% not released (2026) - disco elysium %%
+- [ ] ZERO PARADES: For Dead Spies %% 20 may 2026 - disco elysium %%
 - [ ] Bladesong %% chill making swords %%
 - [ ] Cato: Buttered Cat %% level puzzles %%
 - [ ] Nobody wants to die (epic)  %% detective cyberpunk? %%
 - [ ] Bioshock infinite %% tried base remastered but just couldn't... %%
 - [ ] Hitman 2
 - [ ] Hitman 3
+- [ ] Mixtape %% 3h movie not a game rly %%
 
 ---
 ## Big games To Play:
@@ -232,6 +239,9 @@ Just single and coop games with story. Not all since I might not remember what I
 - [x] OneShot
 - [x] Is This Seat Taken?
 - [x] Goat Simulator
+- [x] House
+- [x] Viewfinder
+- [x] The surge 2
 
 ---
 ## 3DS:

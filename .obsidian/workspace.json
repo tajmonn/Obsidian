@@ -54,9 +54,24 @@
               "icon": "lucide-file",
               "title": "_riri.org.pl"
             }
+          },
+          {
+            "id": "9d0a3c8e16b5cbbb",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/community-plugins.json",
+                "bFile": ".obsidian/community-plugins.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: community-plugins.json  (Index)"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -230,34 +245,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82a7de6780b0945a",
+  "active": "9d0a3c8e16b5cbbb",
   "lastOpenFiles": [
+    "Projects/_riri.org.pl.md",
+    "Projects/_Projects.md",
+    "conflict-files-obsidian-git.md",
+    "Projects/_MP3D Player.md",
+    "Projects/Assets/portfolio.webp",
+    "Projects/Assets",
+    "Pathfinder/Postacie/Główne grywalne/Morith Velstram.md",
+    "Pathfinder/Postacie/Główne grywalne/Kumiho.md",
+    "Pathfinder/Postacie/Główne grywalne/Głomek.md",
+    "Pathfinder/Postacie/Główne grywalne/Bravelina.md",
+    "Pathfinder/Postacie/Główne grywalne/Aldric Velnar.md",
+    "Pathfinder/Postacie/Familiary głowne/Tinkerbell.md",
+    "Pathfinder/Postacie/Familiary głowne/Neeko.md",
+    "Pathfinder/Postacie/Familiary głowne/Maykael.md",
+    "Pathfinder/Postacie/Familiary głowne/Aora.md",
+    "Pathfinder/Postacie/Główne grywalne",
+    "Pathfinder/Postacie/Familiary głowne",
+    "Pathfinder/Postacie/Cayden Cailean.md",
+    "Pathfinder/Postacie",
+    "Pathfinder/Pictures/Neeko.png",
+    "Pathfinder/Pictures/Morith Velstram.png",
+    "Pathfinder/Pictures/Kumiho.png",
+    "Pathfinder/Pictures/Głomek.png",
+    "Pathfinder/Pictures/Bravelina.png",
+    "Pathfinder/Pictures/Aora.png",
+    "Pathfinder/Pictures/Aldric Velstram.png",
+    "Pathfinder/Pictures",
+    "Pathfinder",
     "Projects/_TextTo3DPrint.md",
     "Projects/_Databases RiRi.md",
-    "Projects/_Projects.md",
     "Personal/Movies.md",
-    "conflict-files-obsidian-git.md",
     "Assets/portfolio.webp",
     "Personal/Blender.md",
     "Personal/Games.md",
     "Projects/Portfolio/Text files/Website-RiRi.md",
-    "Projects/_riri.org.pl.md",
     "Projects/Portfolio/_Portfolio.md",
     "Projects/Portfolio/Text files/Experience-work.md",
     "Projects/Portfolio/Text files/Experience-education.md",
     "Projects/Portfolio/Text files/About.md",
     "Projects/Portfolio/Text files/Contact.md",
     "Projects/Portfolio/README.md.md",
-    "Projects/Portfolio/Text files/Portfolio.md",
     "Assets",
     "Projekty/Untitled.canvas",
     "Personal",
     "Projects/Databases RiRi",
     "Projects/Portfolio/Text files",
-    "Projects",
-    "Untitled.canvas",
-    "Projects/Portfolio",
-    "Untitled.base",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
