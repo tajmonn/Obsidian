@@ -37,12 +37,14 @@ For all:
 Printing piece by piece on the same plate makes better quality through printing but the base is reheating multiple time so there is a lot of warping. No need for magnets made in last version.  
 Cassette:  
 - new lock-in pegs don't really work. Maybe just do bigger normal pegs  
+  
 Box:  
 - Too short hole for the lid??? HOW DID YOU MADE IT TYMON?!?!
 - Battery needs to go deeper, maybe too small radius
 - Hole for the recharging module inside the box needs to be longer and wider
 - Maybe cover also should be rounded
 - really thinking about holes for screws for servo for easier disassemble  
+  
 Knob:  
 - make a new version where it covers all the assembly parts 
 - also right now is too tight so it need to have a bigger hole
