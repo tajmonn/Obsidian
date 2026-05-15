@@ -29,7 +29,11 @@ Just single and coop games with story. Not all since I might not remember what I
 - [x] Bitburner
 - [x] Peglin
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [ ] Osu!
+=======
+- [x] Osu!
+>>>>>>> origin/main
 =======
 - [x] Osu!
 >>>>>>> origin/main
@@ -85,7 +89,10 @@ Just single and coop games with story. Not all since I might not remember what I
 ## Small games To Play:
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [ ] House (steam) 
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main
 - [ ] Turnip Boy Robs a Bank (epic)

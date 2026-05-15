@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+- [x] Venom 2
+- [x] Venom 3
+>>>>>>> origin/main
 =======
 - [x] Venom 2
 - [x] Venom 3
@@ -8,6 +13,10 @@
 - [ ] Mufasa
 - [ ] Intern
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+- [ ] Hoppers
+>>>>>>> origin/main
 =======
 - [ ] Hoppers
 >>>>>>> origin/main
@@ -19,8 +28,13 @@ X-men series:
 - [x] X2: X-Men United
 - [x] X-men: The Last Stand
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [ ] The Wolverine (2013)
 - [ ] X-men: Days of Future Past (+ Rouge cut)
+=======
+- [x] The Wolverine (2013)
+- [x] X-men: Days of Future Past (+ Rouge cut)
+>>>>>>> origin/main
 =======
 - [x] The Wolverine (2013)
 - [x] X-men: Days of Future Past (+ Rouge cut)
@@ -35,10 +49,13 @@ Different alternatives:
 - [ ] Logan
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 Finished:
 - [x] Venom 2
 - [x] Venom 3
+=======
+>>>>>>> origin/main
 =======
 >>>>>>> origin/main
