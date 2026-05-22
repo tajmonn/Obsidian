@@ -49,3 +49,10 @@ Box:
 Knob:  
 - make a new version where it covers all the assembly parts 
 - also right now is too tight so it need to have a bigger hole
+# TODO:
+USB C hole missplace AND cassette small pieces connection
+
+
+NEW TODO:
+- add bigger holes for small front cassette peg in cover - or fix position!?
+- better hole for usb c power thingy
