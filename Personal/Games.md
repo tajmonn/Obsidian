@@ -6,17 +6,12 @@ Just single and coop games with story. Not all since I might not remember what I
 
 ## In progress...:
 
-- [ ] Sifu (epic) %% kung fu fighting  %%
 - [ ] Biped 2 (steam) %% sequel with gf %%
-- [ ] Deliver At All Costs (epic) %% quick sessions of bad driving %%
 - [ ] ibb & obb (steam) %% to play with gf %%
 - [ ] Beat Cop (steam) %% finished first day so far? maybe should restart and steam it %%
 - [ ] With you (steam) %% check if gf has it %%
-- [ ] Remnant: From the Ashes %% to play with gf %%
-- [ ] Sherlock Holmes The Awakened
 - [ ] Lego Lord of the Rings %% to play with gf %%
 - [ ] Trine (all) %% to play with gf %%
-- [ ] Pacific Drive
 
 ---
 ## Never ending:
@@ -28,15 +23,7 @@ Just single and coop games with story. Not all since I might not remember what I
 - [ ] Slay the Spire
 - [x] Bitburner
 - [x] Peglin
-<<<<<<< HEAD
-<<<<<<< HEAD
-- [ ] Osu!
-=======
 - [x] Osu!
->>>>>>> origin/main
-=======
-- [x] Osu!
->>>>>>> origin/main
 - [ ] Heartstone
 - [ ] League of Legends
 - [ ] Team Fight Tactics
@@ -88,13 +75,7 @@ Just single and coop games with story. Not all since I might not remember what I
 ---
 ## Small games To Play:
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 - [ ] House (steam) 
-=======
->>>>>>> origin/main
-=======
->>>>>>> origin/main
 - [ ] Turnip Boy Robs a Bank (epic)
 - [ ] The Entropy Center (steam) %% portal like %%
 - [ ] Skate story %% story levels %%
