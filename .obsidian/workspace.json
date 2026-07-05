@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d0a3c8e16b5cbbb",
+            "id": "72b901f4c2dee051",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Movies.md",
+                "file": "Projects/_Projects.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Movies"
+              "title": "_Projects"
+            }
+          },
+          {
+            "id": "82a7de6780b0945a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/_riri.org.pl.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_riri.org.pl"
+            }
+          },
+          {
+            "id": "9d0a3c8e16b5cbbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/_riri.org.pl.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "_riri.org.pl"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,25 +256,29 @@
   },
   "active": "9d0a3c8e16b5cbbb",
   "lastOpenFiles": [
-    "Personal/Blender.md",
-    "Personal/Games.md",
-    "Personal/Movies.md",
-    "Pathfinder/Postacie/Familiary głowne/Tinkerbell.md",
-    "Pathfinder/Postacie/Familiary głowne/Maykael.md",
-    "Pathfinder/Postacie/Familiary głowne/Aora.md",
-    "Projects/_Databases RiRi.md",
-    "Projects/_MP3D Player.md",
+    "Projects/_TextTo3DPrint.md",
     "Projects/_riri.org.pl.md",
     "Projects/_Projects.md",
-    "conflict-files-obsidian-git.md",
+    "Projects/_MP3D Player.md",
+    "Projects/_Databases RiRi.md",
     "Projects/Assets/portfolio.webp",
+    "Projects/Portfolio/Text files/Website-RiRi.md",
+    "Projects/Portfolio/Text files/Portfolio.md",
+    "Projects/Portfolio/Text files/Experience-work.md",
+    "Projects/Portfolio/Text files/Experience-education.md",
+    "Projects/Portfolio/Text files/Contact.md",
+    "Projects/Portfolio/Text files/About.md",
+    "conflict-files-obsidian-git.md",
     "Projects/Assets",
     "Pathfinder/Postacie/Główne grywalne/Morith Velstram.md",
     "Pathfinder/Postacie/Główne grywalne/Kumiho.md",
     "Pathfinder/Postacie/Główne grywalne/Głomek.md",
     "Pathfinder/Postacie/Główne grywalne/Bravelina.md",
     "Pathfinder/Postacie/Główne grywalne/Aldric Velnar.md",
+    "Pathfinder/Postacie/Familiary głowne/Tinkerbell.md",
     "Pathfinder/Postacie/Familiary głowne/Neeko.md",
+    "Pathfinder/Postacie/Familiary głowne/Maykael.md",
+    "Pathfinder/Postacie/Familiary głowne/Aora.md",
     "Pathfinder/Postacie/Główne grywalne",
     "Pathfinder/Postacie/Familiary głowne",
     "Pathfinder/Postacie/Cayden Cailean.md",
@@ -239,15 +292,10 @@
     "Pathfinder/Pictures/Aldric Velstram.png",
     "Pathfinder/Pictures",
     "Pathfinder",
-    "Projects/_TextTo3DPrint.md",
+    "Personal/Movies.md",
     "Assets/portfolio.webp",
-    "Projects/Portfolio/Text files/Website-RiRi.md",
-    "Projects/Portfolio/_Portfolio.md",
-    "Projects/Portfolio/Text files/Experience-work.md",
-    "Projects/Portfolio/Text files/Experience-education.md",
-    "Projects/Portfolio/Text files/About.md",
-    "Projects/Portfolio/Text files/Contact.md",
-    "Projects/Portfolio/README.md.md",
+    "Personal/Blender.md",
+    "Personal/Games.md",
     "Assets",
     "Projekty/Untitled.canvas",
     "Personal",
